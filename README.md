@@ -83,3 +83,4 @@ This chatbot is suitable as a **mini assistant** or **starter project** for lear
 
 
 ##OUTPUT:
+<img width="659" height="392" alt="Image" src="https://github.com/user-attachments/assets/e3111525-12ce-4f83-9437-e686bd9f91ef" />
