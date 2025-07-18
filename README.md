@@ -14,7 +14,7 @@
 
 
 
-###  **Task Description: Simple Rule-Based Chatbot using Python (CodTechBot)**
+###  **Task Description: Simple Rule-Based Chatbot using Python **
 
 ####  **Objective:**
 
